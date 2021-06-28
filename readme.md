@@ -6,4 +6,4 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, natus quibus
 -super animation 
 -clickable background
 
-![A dog](./image-1)
+![A dog](./image-1.jpg)
